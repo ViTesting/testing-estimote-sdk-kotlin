@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestingEstimote</string>
+    <string name="action_register_bacon">Register Bacon !</string>
 </resources>
